@@ -1,0 +1,88 @@
+Atlantis Disaster Game
+
+Land types 
+- Each has a score (hit points)
+
+Power Attack Cards
+- Power points of the attack card must be >= than the land's score you are attacking
+- An opponent can cancel an attack with an attack of opposing elementalness
+- Can steal 1/2 of the land's points by attacking the land with a power card of equal or greater value (non-opposing flavor) that your opponent is attacking
+- >2 players, players can gang up on lands and split points or combine opposing flavors to block another player from winning a land.
+
+Temple Token - Template token triples whatever land's score points it is placed on.
+
+Power Cards
+-------------
+E - Earth
+F - Fire
+W - Water
+A - Air
+B - Spirit/Bio
+M - Mech/Automata
+
+Volcano - F,E - 
+Tsunami - W,E -
+Hurricane - A,W - 
+Thunderstorm - A,W - 
+Flood - W - 
+Brushfire - F - 
+Lighting - F,A - 
+Locusts - B - 
+Earthquake - E -
+Tornado - A - 
+Sinkhole - W,E - 
+Geyser - F,W - 
+Asteroid - A,E - 
+Glaciate - W -
+Colossus - M - 
+Flaming Colossus - F,M - 
+Creeping Horror - B -
+Plague - A,B -
+Blight - B - 
+Juggernaut - E,M - 
+Landslide - E - 
+Avalanche - E - 
+Firestorm - F - 
+Catabatic - A - 
+Gust - A - 
+Haunting - B -
+Meteor Shower - A,E - 
+Mudslide - W,E -
+Spontaneous Combustion - F,B - 
+Dam burst - W,M - 
+Desertification - F,A - 
+Technology goes Awry - M - 
+
+Event Cards
+-----------
+
+New Temple - Place a new temple token on the board
+Zodiac Day of Wrath - Must attack with at least one card
+Zodiac Day of Rest - Can't play a power card for your turn
+Power Surge - Draw an extra power card
+Atlanteans Rebuild - Put a destroyed land back into play
+Cosmic convergence - Asteroids, Meteor Shower are +X 
+Dry Season - Brushfire is +X
+Zodiac Day of Fire - Fire powers are +X
+Zodiac Day of Water - Water powers are +X
+Zodiac Day of Air - Air powers are +X
+Zodiac Day of Bio - Bio powers are +X
+Zodiac Day of Mech - Mech powers are +X
+Zodiac Day of Earth - Earth powers are +X
+Zodiac Day of Fear - Any destroyed land is worth 2x points
+Zodiac Day of Defiance - Any destroyed land is worth 1/2x points
+Reverse Damage - Any destoryed land's points will be subtracted from an opponent of your choice - stolen points will be split
+Channel Damage - You may attack your opponent, any damage done will be subtracted from their point total. Counters will subtract from that damage total.
+Day of Religious Celebration - The temple land is +5 score points.
+Heretic emerges - The template land is -5 score points.
+Amplification - Cardinal adjacent lands take 1/2x attack power. If an adjacent land is destroyed, take that land's score points too.
+Black Hole - If you wish, remove one land from play (no points) and end your turn.
+Clarvoyance - Look at any opponent's hand
+Divine Exchange - Swap hands with any opponent
+Divine Forgetfulness - Force an opponent to discard three cards
+Genesis Event - All destroyed lands are put back into play
+Zodiac Day of Endings - Everyone discards all cards
+Cosmic Clockwise - Every player must swap hands with the player on their left.
+Bad luck - Discard a card at random
+Divine Gift - Take one card from any opponent
+
